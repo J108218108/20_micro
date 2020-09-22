@@ -8,7 +8,7 @@
 
 [高雄科大](https://www.nkust.edu.tw/)
 
-![NKUST](school.png"高雄科大")
+![NKUST](school.png "高雄科大")
 
 
 
